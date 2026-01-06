@@ -44,6 +44,9 @@
     margin-bottom: 30px;
     columns: #757575;
 }
+.section-heading .btn{
+    margin-bottom: 105px;
+}
 
 /* main style  */
 header{
@@ -163,4 +166,54 @@ nav .menu a{
     font-size: 18px;
     line-height: 28px;
     color: #757575;
+}
+.section-heading h2{
+    margin-bottom: 113px;
+}
+#resume{
+    padding-top: 130px;
+}
+.resume-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    width: 71%;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+.resume-card{
+    max-width: 511px;
+    /* height: 175px; */
+    margin-bottom: 30px;
+    margin-right: 47px;
+}
+/* .resume-card h3{
+    padding-top: 30px;
+} */
+.section-title{
+    font-size: 30px;
+    font-weight: bold;
+    color: #474747;
+    margin-bottom: 30px;
+}
+.card-title{
+    font-size: 25px;
+    font-weight: bold;
+    color: #474747;
+    margin-bottom: 10px;
+}
+.card-info{
+    font-size: 20px;
+    font-weight: 600;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.card-text{
+    line-height: 28px;
+    color: #757575;
+    margin-bottom: 30px;
+}
+#resume btn{
+    width: 71%;
+    margin: 0 auto;
 }
